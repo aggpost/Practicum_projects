@@ -9,8 +9,7 @@
 | 3.   | [HR-аналитика](https://github.com/aggpost/Practicum_projects/tree/main/HR) | Построение модели, которая сможет предсказать уровень удовлетворённости сотрудника на основе данных заказчика |
 | 4.   | [Машинное обучение в бизнесе](https://github.com/aggpost/Practicum_projects/tree/main/BusinessML) | Построение модели для определения региона, где добыча принесёт наибольшую прибыль |
 | 5.   | [Численные методы](https://github.com/aggpost/Practicum_projects/tree/main/NumMethods) | Построение модели для определения рыночной стоимости автомобиля |
-| 6.   | [Временные ряды](https://github.com/aggpost/Practicum_projects/tree/main/TimeSeries) | Построение модели для предсказания количества 
-такси на следующий час |
+| 6.   | [Временные ряды](https://github.com/aggpost/Practicum_projects/tree/main/TimeSeries) | Построение модели для предсказания заказов такси на следующий час |
 | 7.   | [Машинное обучение для текстов](https://github.com/aggpost/Practicum_projects/tree/main/TextsML) | Построение модели классификации для определения позитивных и негативных комментариев |
 | 8.   | [Компьютерное зрение](https://github.com/aggpost/Practicum_projects/tree/main/Computer%20Vision) | Построение модели для определения приблизительного возраста человека по фотографии |
 | 9.   | [Финальные проект: промышленность](https://github.com/aggpost/Practicum_projects/tree/main/Industry) | Построение модели предсказания температуры сплава в рамках технологического процесса |
